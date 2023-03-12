@@ -1,5 +1,5 @@
 
-### Hi there 👋
+<!-- ### Hi there 👋
 
 ## 🔧 Technologies & Tools
 
@@ -44,7 +44,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/dambar08
-[2]: https://www.linkedin.com/https://www.linkedin.com/in/dambar-pun-55b11718b/
+[2]: https://www.linkedin.com/https://www.linkedin.com/in/dambar-pun-55b11718b/ -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
